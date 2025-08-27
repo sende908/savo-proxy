@@ -1,0 +1,20 @@
+{
+  "name": "discord-browser-proxy",
+  "version": "1.0.0",
+  "description": "Run Discord Web in Codespaces with a GUI (noVNC) and manual CAPTCHA solving.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "discord",
+    "codespaces",
+    "browser",
+    "proxy",
+    "novnc",
+    "xvfb"
+  ],
+  "author": "sende908",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
